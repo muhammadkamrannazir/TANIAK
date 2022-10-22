@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "43362747314",
+    "project_id": "taniak-1da8e",
+    "storage_bucket": "taniak-1da8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43362747314:android:77440f381afcde6249daab",
+        "android_client_info": {
+          "package_name": "com.example.taniak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43362747314-qh68u5e2gqvhr8kndqcjrifcn92qvqn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2hKCCjvEUorydBeGovKqlI8MlY1QFXVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43362747314-qh68u5e2gqvhr8kndqcjrifcn92qvqn0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
